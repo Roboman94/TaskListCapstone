@@ -1,0 +1,13 @@
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.exe
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.deps.json
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.runtimeconfig.json
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.runtimeconfig.dev.json
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.dll
+C:\Users\kenda\source\repos\TaskList\TaskList\bin\Debug\netcoreapp3.1\CapStoneTaskList.pdb
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.csprojAssemblyReference.cache
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.AssemblyInfoInputs.cache
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.AssemblyInfo.cs
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.dll
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.pdb
+C:\Users\kenda\source\repos\TaskList\TaskList\obj\Debug\netcoreapp3.1\CapStoneTaskList.genruntimeconfig.cache
